@@ -1,7 +1,7 @@
-## Hey there! 👋 I'm Daniel Oladipupo, a data analyst who loves to dive into the world of numbers, unravel the mysteries of data, and turn them into meaningful insights.
+## Hey there! 👋 I'm Daniel Oladipupo, a Data Analyst who loves to dive into the world of numbers, unravel the mysteries of data, and turn them into meaningful insights.
 ## 🔍 Explore My Data Adventures
-- Data Cleanup Specialist:Proficient in organizing messy datasets, streamlining them for analysis🧹
-- Visual Storyteller:Transforms data into visually appealing and informative representations, making complex information easily to understand💻
+- Data Cleanup Specialist: Proficient in organizing messy datasets, streamlining them for analysis🧹
+- Visual Storyteller: Transforms data into visually appealing and informative representations, making complex information easily to understand💻
 - Insightful Analyst: I slice and dice data, uncover hidden patterns, and transform them into actionable recommendations that drive business decisions🔍
 ## 🛠️ Tools of the Trade
 Here are some of the tools I use to unlock the power of data:
@@ -19,6 +19,7 @@ Feel free to dive into my GitHub repository and check out some of my data analys
 ## 🤝 Let's Connect
 - [linkedin](www.linkedin.com/in/oladipupo)
 - [Website](bit.ly/OladipupoDan)
+- [Mail](https://mail.google.com/mail/u/1/#inbox)
   
 Let's explore the data universe together 🌐
 <!---
