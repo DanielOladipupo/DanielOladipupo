@@ -19,7 +19,7 @@ Feel free to dive into my GitHub repository and check out some of my data analys
 ## 🤝 Let's Connect
 - [linkedin](www.linkedin.com/in/oladipupo)
 - [Website](bit.ly/OladipupoDan)
-- [Mail](https://mail.google.com/mail/u/1/#inbox)
+- [Email](mailto:danieloladipupo828@gmail.com)
   
 Let's explore the data universe together 🌐
 <!---
