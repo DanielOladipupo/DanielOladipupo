@@ -6,9 +6,11 @@
 ## 🛠️ Tools of the Trade
 Here are some of the tools I use to unlock the power of data:
 
-- SQL: I'm fluent in the language of data, crafting complex queries to extract valuable insights. 💻
-- PowerBI: A powerful visualization tool that helps me create stunning dashboards and reports. 📊
 - Excel: The classic spreadsheet, where I often start my data exploration journey. 📈
+- PowerBI: A powerful visualization tool that helps me create stunning dashboards and reports. 📊
+- Tableau: An advanced data visualization platform that allows me to create interactive and insightful dashboards. 📊
+- SQL: I'm fluent in the language of data, crafting complex queries to extract valuable insights. 💻
+
 ## 💎 My Values
 - Resilience
 - Empathy
